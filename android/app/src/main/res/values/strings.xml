@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Rabbit Confirmation</string>
+    <string name="widget_small_description">Affirmation and tasks</string>
+    <string name="widget_default_affirmation">Tap to open Daily Rabbit</string>
+    <string name="widget_default_tasks">No tasks</string>
+</resources>
