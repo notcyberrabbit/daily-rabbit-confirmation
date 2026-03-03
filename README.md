@@ -1,38 +1,53 @@
-# Daily Rabbit Confirmation
+# 🐰 Daily Rabbit Confirmation
 
-Daily crypto affirmations + embedded Jupiter Terminal swap (WebView).
+Daily Web3 affirmations, tasks, and DeFi tools for Solana Mobile.
 
-## Features
+## ✨ Features
 
-- **Splash**: Pulsating rabbit logo, personalized greeting, streak count (2s then main).
-- **Main**: Header (Settings, Connect/Address, Premium), affirmation section (swipe up for next, favorite/share), Jupiter Terminal WebView (SOL ↔ USDC, dark theme).
-- **Settings**: Name, 4 gradient themes (Midnight Blue, Sunrise, Lavender, Forest Calm), haptic toggle, filter All/Favorites, favorites list (share/delete), wallet info, Error logs link.
-- **Error Logs**: List of errors with timestamps; Copy all / Clear all.
+- **67+ Crypto Affirmations** - Daily motivation for Web3 builders
+- **Task Manager** - Productivity with priority colors, swipe actions, and progress tracking
+- **Jupiter, Raydium, Orca Swap** - Seamless token swaps with best rates
+- **Tap the Rabbit** - Addictive mini-game to earn carrots
+- **Wallet Profile** - View balance, track stats, on-chain analytics
+- **4 Beautiful Themes** - Midnight Blue, Sunrise, Lavender, Forest Calm
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- Flutter with **Provider** for state (theme, wallet, streak, settings, affirmations).
-- **google_fonts** (Poppins), **webview_flutter** (Jupiter), **shared_preferences**, **share_plus**, **lottie**, **flutter_svg**.
+- **Flutter** - Cross-platform mobile framework
+- **Solana Mobile Wallet Adapter** - Secure wallet connection
+- **SharedPreferences** - Local data storage
 
-## Run
+## 📱 Platform
 
-```bash
-cd "C:\Daily Rabbit Confirmation"
-flutter pub get
-flutter run
-```
+Built for **Solana Mobile** (Saga & Seeker)
 
-## Android
+## 🚀 Installation
 
-- Package: `com.dailyrabbit.confirmation`
-- minSdk: 23, targetSdk: 34
-- Permissions: INTERNET, VIBRATE
+1. Clone the repository
+2. Install dependencies
+3. Run the app
 
-## Structure
+## 📦 Download
 
-- `lib/models/` — Affirmation, StreakManager, AppTheme (WalletState in providers).
-- `lib/providers/` — ThemeNotifier, WalletState, SettingsNotifier.
-- `lib/services/` — StorageService, AffirmationService, ErrorLogger.
-- `lib/screens/` — Splash, Main, Settings, Error Logs.
-- `lib/widgets/` — AffirmationSection, JupiterWebView.
-- `assets/affirmations.json` — 20 crypto/Solana affirmations.
+Download the latest APK from https://dailyrabbitconfirmation.netlify.app/
+Or find it on the **Solana dApp Store**
+
+## 🌐 Website
+
+https://dailyrabbitconfirmation.netlify.app/
+
+## 📄 License
+
+MIT License - see [LICENSE](LICENSE) file
+
+## 🙏 Acknowledgments
+
+- Built on **Solana** ◎
+- Made with ❤️ for the Solana Mobile community
+
+## 📧 Contact
+
+Email: notcyberrabbit@gmail.com
+
+
+
