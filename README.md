@@ -17,6 +17,9 @@ Daily Web3 affirmations, tasks, and DeFi tools for Solana Mobile.
 - **Solana Mobile Wallet Adapter** - Secure wallet connection
 - **SharedPreferences** - Local data storage
 
+## 📸 Screenshots
+https://github.com/notcyberrabbit/daily-rabbit-confirmation/tree/main/screenshots
+
 ## 📱 Platform
 
 Built for **Solana Mobile** (Saga & Seeker)
