@@ -22,7 +22,7 @@ https://github.com/notcyberrabbit/daily-rabbit-confirmation/tree/main/screenshot
 
 ## 📱 Platform
 
-Built for **Solana Mobile** (Saga & Seeker)
+Built for **Solana Mobile**
 
 ## 🚀 Installation
 
@@ -38,6 +38,13 @@ Or find it on the **Solana dApp Store**
 ## 🌐 Website
 
 https://dailyrabbitconfirmation.netlify.app/
+
+## 📦 Showcasing functionality Youtube video
+
+https://www.youtube.com/watch?v=f1tdWozQHrc
+
+## 🎯 Brief Presentation
+https://github.com/notcyberrabbit/daily-rabbit-confirmation/blob/main/Daily_Rabbit_Pitch_Deck.pdf
 
 ## 📄 License
 
